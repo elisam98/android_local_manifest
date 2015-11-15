@@ -11,16 +11,6 @@
 	<project path="kernel/lge/msm8610" name="elisam98/android_kernel_lge_msm8610" revision="cm-12.1" />
 
 
-	<project path="device/lge/w5" name="vm03/android_device_lge_w5" remote="github" revision="cm-12.1"/>
 	<project path="device/lge/msm8610-common" name="vm03/android_device_lge_msm8610-common" remote="github" revision="cm-12.1" />
-<!--
-	<project path="kernel/lge/msm8610" name="vm03/android_kernel_lge_msm8610" revision="cm-12.1" />
--->
 	<project path="vendor/lge/msm8610-common" name="vm03/proprietary_vendor_lge_msm8610-common" revision="cm-12.1" />
-	<project path="vendor/lge/w5" name="vm03/proprietary_vendor_lge_w5" revision="cm-12.1" />
-<!--
-	<project path="kernel/lge/msm8226" name="arj1231/kernel_lge_msm8226" revision="LP" />
-	<project path="device/lge/x5" name="arj1231/device_lge_x5" revision="master" />
-	<project path="vendor/lge/x5" name="arj1231/vendor_lge_x5" revision="master" />
--->
 </manifest>
