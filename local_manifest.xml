@@ -7,7 +7,7 @@
 	<project path="hardware/qcom/fm" name="CyanogenMod/android_hardware_qcom_fm" remote="github" revision="cm-12.1" />
 
 	<project path="device/lge/w5c" name="elisam98/android_device_lge_w5c" remote="github" revision="cm-12.1"/>
-	<project path="vendor/lge/w5c" name="elisam98/proprietary_vendor_lge_w5c" revision="cm-12.1" />
+	<project path="vendor/lge/w5c" name="elisam98/proprietary_vendor_lge_w5c" revision="cm-11.0" />
 	<project path="kernel/lge/msm8610" name="elisam98/android_kernel_lge_msm8610" revision="cm-12.1" />
 
 
